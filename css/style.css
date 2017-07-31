@@ -1,0 +1,18 @@
+.wrap{
+	width: 600px;
+	height: 450px;
+	border: solid 4px #3366ff;
+	text-align: center;
+	margin: 0 auto;
+	font-family: 'Roboto';
+	font-size: 32px;
+	font-weight: bold;
+}
+.my{
+	height: 430px;
+	width: 200px;
+	margin: 10px 0;
+}
+.column_1, .column_2{
+	border-right: solid 1px #3366ff;
+}
